@@ -2,9 +2,12 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
 Some information about you!
+
+Go to Prose and edit about.md to change this page.
 
 ### More Information
 
