@@ -7,7 +7,8 @@ published: true
 
 Some information about you!
 
-Go to Prose and edit about.md to change this page.
+Go to Github and edit about.md to change this page.
+https://github.com/ok-drama/ok-drama.github.io/blob/master/about.md
 
 ### More Information
 
